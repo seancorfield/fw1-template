@@ -1,5 +1,7 @@
 # fw1-template
 
+OUTDATED: USE [fw1/lein-template](https://github.com/framework-one/fw1-template) INSTEAD!
+
 A [Leiningen](https://github.com/technomancy/leiningen) template for [FW/1](https://github.com/framework-one/fw1-clj) (Framework One).
 
 ## Usage
